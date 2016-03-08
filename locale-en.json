@@ -81,7 +81,7 @@
   "PROFILE_DATE_TNX": "Date",
   "PROFILE_ORDER_TYPE": "Category",
   "PROFILE_STATE": "Order State & Blockchain Receipts",
-  "PROFILE_DOCS": "Docs"
+  "PROFILE_DOCS": "Docs",
   "PROFILE_VERIFICATION": "Verification",
   "PROFILE_KYC": "KYC/AML Declaration",
   "PROFILE_CHOOSE" : "Choose one( Accredited Investor)",
@@ -109,7 +109,7 @@
   "TRANSACTION_BREAKDOWN": "Transaction Details",
   "COMMISSION": "Commission",
   "TNCALERT": "Kindly agree to the terms & conditions before proceeding.",
-  "TNC": " I agree with the Terms and Conditions ",
+  "TNC": "I agree with the Terms and Conditions ",
   "SUMMARY": "Summary",
   "PROCEED": "Proceed",
   "CHANGE": "Change",
@@ -123,5 +123,17 @@
   "NEWS_CONTACT": "Contact us",
   "NEWS_LEARN": "Learn",
   "NEWS_METAL": "Metal News",
-  "NEWS_LEARN_SUBHEADING" : "Coincircles.com is similar to an offshore savings account, but with us you hold physical gold and silver instead of paper money, and you can deposit or withdraw in bitcoins directly to your own wallet, even if there's no access to traditional bank accounts."
+  "NEWS_LEARN_SUBHEADING" : "Coincircles.com is similar to an offshore savings account, but with us you hold physical gold and silver instead of paper money, and you can deposit or withdraw in bitcoins directly to your own wallet, even if there's no access to traditional bank accounts.",
+  "LOGIN_WRONG" : "Wrong Username/Password",
+  "LOGIN_REGISTER" : "Register",
+  "LOGIN_CLICK" : "Click ",
+  "LOGIN_HERE" : "here ",
+  "LOGIN_FORGOT" : "if you forgot your Password.",
+  "LOGIN_SIGNIN" : "Sign In",
+  "SIGNUP_REGISTRATION" : "Registration",
+  "HOME" : "Home",
+  "SIGNUP_SIGNUP" : "Sign Up",
+  "SIGNUP_TERMS" : "*I agree to the Terms & Conditions",
+  "SIGNUP_TERMS_NOTICE" : "Please agree to the Terms and Conditions",
+  "CPASSWORD_NOTICE" : "Please check that both passwords match & that you use a strong password"
 }
